@@ -4,14 +4,15 @@ html *
 }
 
 .coolTitle {
-  text-align: center;
+  text-align: left;
   font-size: 40px;
   transform: skewY(-2deg);
   letter-spacing: 4px;
   word-spacing: -8px;
   color: tomato;
   margin-top: 50px;
-  text-shadow: 
+  margin-bottom: 40px;
+  text-shadow:
     -1px -1px 0 firebrick,
     -2px -2px 0 firebrick,
     -3px -3px 0 firebrick,
